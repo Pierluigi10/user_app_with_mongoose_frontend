@@ -1,7 +1,7 @@
 
-#  manageUserAppFrontend
+#  Manage User App Frontend with Mongoose
 
-This is the frontend for a user-management app that has a create-react-app frontend and Node/Express API backend that carries out CRUD operations.
+This is the frontend for a user-management app that has a create-react-app frontend and Node/Express API backend that carries out CRUD operations on a MongoDB database with the Mongoose driver.
 
 See also the [backend](https://https://user-app-mongoose-backend.herokuapp.com).
 
