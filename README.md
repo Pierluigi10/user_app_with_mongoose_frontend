@@ -3,11 +3,11 @@
 
 This is the frontend for a user-management app that has a create-react-app frontend and Node/Express API backend that carries out CRUD operations.
 
-See also the [backend](https://github.com/Pierluigi10/user-app-backend).
+See also the [backend](https://https://user-app-mongoose-backend.herokuapp.com).
 
 ## Setup
 
-- (make sure that the [backend](https://github.com/Pierluigi10/user-app-backend) is running)
+- (make sure that the [backend](https://github.com/Pierluigi10/user_app_with_mongoose_backend) is running)
 - `npm i`
 - `npm start`
 
